@@ -23,7 +23,7 @@
 
 <h3 align="center">Mainly used</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -36,6 +36,9 @@
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=header&text=Algorithm&fontSize=20" />
+
+![bes99's github stats](https://github-readme-stats.vercel.app/api?username=bes99ID&show_icons=true)
+[![bes99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bes99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bes99)
 
 [![Solved.ac
 pas1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas1007)](https://solved.ac/pas1007)
