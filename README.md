@@ -35,11 +35,12 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=header&text=Algorithm&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=header&text=etc.&fontSize=24" />
 
-![bes99's github stats](https://github-readme-stats.vercel.app/api?username=bes99ID&show_icons=true)
-[![bes99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bes99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bes99)
-
+![bes99's github stats](https://github-readme-stats.vercel.app/api?username=bes99&show_icons=true)
 [![Solved.ac
 pas1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas1007)](https://solved.ac/pas1007)
+
+[![bes99's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bes99&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bes99)
+
 
