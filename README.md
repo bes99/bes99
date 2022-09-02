@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=400&section=header&text=EunSeong%20Byun&fontSize=50" />
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=body&text=Tech%20Stack&fontSize=20" />
+-->
 <h3 align="center">used at least once</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
