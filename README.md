@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=400&section=header&text=🐜EunSeong%20Byun&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=400&section=header&text=EunSeong%20Byun&fontSize=50" />
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=body&text=Tech%20Stack&fontSize=20" />
