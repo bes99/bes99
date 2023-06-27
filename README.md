@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=400&section=header&text=EunSeong%20Byun&fontSize=50" />
+<!--img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=400&section=header&text=EunSeong%20Byun&fontSize=50" /-->
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=body&text=Tech%20Stack&fontSize=20" />
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=header&text=🌿etc.🌿&fontSize=24" />
+<!--img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=50&section=header&text=🌿etc.🌿&fontSize=24" /-->
 
 <!--
 ![bes99's github stats](https://github-readme-stats.vercel.app/api?username=bes99&show_icons=true)
