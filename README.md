@@ -1,6 +1,6 @@
 ## 💻 profile
 - `Introduction`: Springboot Backend Developer 🌿
-- `School`: Sejong Univ. (2018.03~) 🏫
+- `School`: Sejong Univ. (2018.03 ~ 2024.08) 🏫
 - `Major`: Department of Artificial Intelligence and Robotics 📙
 - `City`: Seoul, South Korea 🌏
 
